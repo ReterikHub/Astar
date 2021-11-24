@@ -150,8 +150,8 @@ namespace
 
 			double dist = pow((x - 126), 2) + pow((y - 1), 2);
 			distance = sqrt(dist);
-			this->h = distance; //uncomment to enable heuristic
-			//this->h = 0;		  //comment to enable heuristic
+			//this->h = distance; //uncomment to enable heuristic
+			this->h = 0;		  //comment to enable heuristic
 		}
 
 	private:
@@ -489,7 +489,7 @@ namespace
 		glOrtho(0, 512 + 4, 256 + 2, 0, -1, 1);
 
 		// Load input file, choises: input1-5 and inputOriginal
-		inputTexture = loadBMPTexture("inputOriginal.bmp", &width, &height, &inputData);
+		inputTexture = loadBMPTexture("input2.bmp", &width, &height, &inputData);
 		if (0 == inputTexture)
 		{
 			printf("Error! Cannot open file: \"input.bmp\"\n");
@@ -583,8 +583,8 @@ namespace
 		pixelEnd[1] = 0;
 		pixelEnd[2] = 0;
 
-		// Load input filec
-		inputTexture = loadBMPTexture("input4.bmp", &width, &height, &inputData);
+		// Load input file
+		inputTexture = loadBMPTexture("input3.bmp", &width, &height, &inputData);
 		if (0 == inputTexture)
 		{
 			printf("Error! Cannot open file: \"input.bmp\"\n");
