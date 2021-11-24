@@ -1,0 +1,3 @@
+C:/Users/sante/code/github/Astar/build/CMakeFiles/Astar.dir
+C:/Users/sante/code/github/Astar/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sante/code/github/Astar/build/CMakeFiles/ZERO_CHECK.dir

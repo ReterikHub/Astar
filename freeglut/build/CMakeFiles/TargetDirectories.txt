@@ -1,0 +1,5 @@
+C:/Users/sante/code/github/Astar/glut/freeglut-3.2.1/build/CMakeFiles/freeglut.dir
+C:/Users/sante/code/github/Astar/glut/freeglut-3.2.1/build/CMakeFiles/INSTALL.dir
+C:/Users/sante/code/github/Astar/glut/freeglut-3.2.1/build/CMakeFiles/freeglut_static.dir
+C:/Users/sante/code/github/Astar/glut/freeglut-3.2.1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sante/code/github/Astar/glut/freeglut-3.2.1/build/CMakeFiles/ZERO_CHECK.dir
